@@ -1,1 +1,2 @@
 # based-imx6ull_driver_project
+基于linux平台下，使用Busybox buildroot、完成uboot、ZImage、设备树、rootfs文件系统的构建与裁剪。使用sd卡、tftp网络下载、nfs挂载完成MX6ULL的开发板移植。实现基于 V4L2 框架的 OV5640 摄像头subdev驱动，​​实现对摄像头帧率、亮度、对比度、饱和度等参数的实时调节​​。支持多种分辨率与像素格式（YUYV, RGB565）的配置​​、提高驱动的可复用性。编写移植了KEY、BEEP、DHT11、FT5426触摸屏、基于IIo、regmap子系统编写ICM20608、AP3216C的IIC/SPI设备驱动。基于 Qt实现界面，移植alsa语音驱动，WiFi驱动、使用百度语音 API实现语音生成导航路线功能;通过串口读取北斗GPS模块消息，配合百度地图 AF完成地图定位功能; 实现倒车监控及距离预警功能;移植myplayer播放器可扫描本地音乐以及实现在线音乐搜索下载;另外包括温湿度实时显示、天气查询、视频播放。
