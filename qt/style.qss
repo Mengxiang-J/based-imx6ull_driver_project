@@ -1,0 +1,52 @@
+QMainWindow {
+    background-color: #1a1a1a;
+}
+
+QPushButton {
+    background: #333333;
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+    min-width: 40px;
+    min-height: 40px;
+}
+
+QPushButton:hover {
+    background: #4d4d4d;
+}
+
+QPushButton:pressed {
+    background: #666666;
+}
+
+QListWidget {
+    background: #262626;
+    color: #ffffff;
+    border: 1px solid #404040;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+QLabel {
+    color: #ffffff;
+    font-family: 'Segoe UI';
+    font-size: 12px;
+}
+
+QSlider::groove:horizontal {
+    height: 6px;
+    background: #404040;
+    border-radius: 3px;
+}
+
+QSlider::sub-page:horizontal {
+    background: #2196F3;
+    border-radius: 3px;
+}
+
+QSlider::handle:horizontal {
+    background: #ffffff;
+    width: 16px;
+    margin: -5px 0;
+    border-radius: 8px;
+}

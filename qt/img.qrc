@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/bg.jpg</file>
+        <file>img/map.png</file>
+        <file>img/music.png</file>
+        <file>img/video.png</file>
+        <file>img/weather.png</file>
+        <file>img/back.png</file>
+        <file>img/sunset.png</file>
+        <file>img/sunny.png</file>
+        <file>img/cloudy_sun.png</file>
+        <file>img/clouds_storm.png</file>
+        <file>img/cloud.png</file>
+        <file>img/play.png</file>
+        <file>img/skip-back.png</file>
+        <file>img/skip-forward.png</file>
+        <file>img/pause.png</file>
+        <file>img/fast-forward.png</file>
+        <file>img/fast-backward.png</file>
+        <file>img/zjl.jpeg</file>
+        <file>img/ljj.jpg</file>
+        <file>img/staticimage.png</file>
+        <file>img/zoom-in.png</file>
+        <file>img/zoom-out.png</file>
+        <file>style.qss</file>
+        <file>res/airQuity.png</file>
+        <file>res/close.png</file>
+        <file>res/eastWind.png</file>
+        <file>res/muchcloud.png</file>
+        <file>res/output.json</file>
+        <file>res/PM25.png</file>
+        <file>res/search.png</file>
+        <file>res/sun.png</file>
+        <file>res/tempature.png</file>
+        <file>img/daoche.png</file>
+    </qresource>
+</RCC>
